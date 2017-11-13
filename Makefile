@@ -1,7 +1,7 @@
 
-CC=gcc
+#CC=gcc
 #CC=powerpc-linux-gcc
-CFLAGS=-Wall -g
+CFLAGS=-Wall
 
 main: pcimem
 
